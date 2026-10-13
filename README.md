@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Shejal Shinde 👋
 
-<!--
-**shindeshejal784-dotcom/shindeshejal784-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about coding and web development.
+- 🌱 Continuously learning new technologies.
+- 🚀 Building projects to improve my programming skills.
+- 🎯 Working towards becoming a software developer.
+
+Skills & Technologies
+
+- Languages: C, C#, PHP
+- Web Development: HTML, CSS
+- Database: SQL
+- Tools: Git, GitHub
+
+My Projects
+
+Check out my repositories to explore my coding projects and learning journey.
+
+Connect With Me
+
+- GitHub: "@shindeshejal784-dotcom" (https://github.com/shindeshejal784-dotcom)
